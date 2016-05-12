@@ -1,0 +1,11 @@
+{
+  "name": "dockerexample",
+  "version": "1.0.0",
+  "description": "NodeJs application with Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Douglas Picolotto",
+  "license": "ISC"
+}
