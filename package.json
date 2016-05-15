@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/dopic/dockerexample/issues"
   },
-  "homepage": "https://github.com/dopic/dockerexample#readme"
+  "homepage": "https://github.com/dopic/dockerexample#readme",
   "author": "Douglas Picolotto",
   "license": "ISC"
 }
