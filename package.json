@@ -6,6 +6,14 @@
   "scripts": {
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dopic/dockerexample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dopic/dockerexample/issues"
+  },
+  "homepage": "https://github.com/dopic/dockerexample#readme"
   "author": "Douglas Picolotto",
   "license": "ISC"
 }
